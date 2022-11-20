@@ -3,7 +3,7 @@ const matchList = document.getElementById('match-list');
 
 //Search flats.json and filter it
 const searchStates = async searchText =>{
-const res = await fetch('../data/building.json');
+const res = await fetch('https://amol246.github.io/jsonapi/building.json');
 const building = await res.json();
 
 //console.log(flats);
