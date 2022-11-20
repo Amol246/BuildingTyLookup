@@ -1,0 +1,1184 @@
+[
+	{
+		"abbr": "AJ",
+        "bname":"Ajanta",
+        "type": "Type-C/Type-D-Spl",
+        "boxnumber":"(XI)11/(xv),15",
+        "employee": "Shri/Smt.",
+		"designation": "Assistant",
+		"ttm":"TTM-III(Hastinapur)"
+    
+    },
+    { 
+        "abbr":"AL",
+        "bname":"Almora",
+        "type": "Type-D-Spl",
+        "boxnumber":"(XVI),16",
+        "employee": "Shri/Smt.",
+		"designation": "Assistant",
+		"ttm":"TTM-III(Hastinapur)"
+    },
+    {
+        "abbr":"BDR",
+        "bname":"Badrinath",
+        "type": "Type-D-Spl",
+        "boxnumber":"(XIII),13",
+        "employee": "Shri/Smt.",
+		"designation": "Assistant",
+		"ttm":"TTM-II(Brindavan)" 
+    },
+    { 
+        "abbr":"BHV",
+        "bname":"Bhavani",
+        "type": "Type-B",
+        "boxnumber":"(IX),9",
+        "employee": "Shri/Smt.",
+		"designation": "Assistant",
+		"ttm":"TTM-II(Brindavan)" 
+    },
+	{
+        "abbr":"EV",
+        "bname":"Everest",
+        "type": "Type-D-Spl",
+        "boxnumber":"(XVI),16",
+        "employee": "Shri/Smt.",
+		"designation": "Assistant",
+		"ttm":"TTM-III(KMU)" 
+    },
+	{
+        "abbr":"GAU",
+        "bname":"Gautami",
+        "type": "Type-B",
+        "boxnumber":"(XV),15",
+        "employee": "Shri/Smt.",
+		"designation": "Assistant",
+		"ttm":"TTM-IV(New Mandala)" 
+    },
+	{ 
+        "abbr":"GRI",
+        "bname":"Grishma",
+        "type": "Type-C",
+        "boxnumber":"(XII),12",
+        "employee": "Shri/Smt.",
+		"designation": "Assistant",
+		"ttm":"TTM-IV(New Mandala)" 
+    },
+	{
+        "abbr":"GUL",
+        "bname":"Gulmarg",
+        "type": "Type-D-Spl",
+        "boxnumber":"(XIV),14",
+        "employee": "Shri/Smt.",
+		"designation": "Assistant",
+		"ttm":"TTM-III(KMU)" 
+    },
+	{
+        "abbr":"GU",
+        "bname":"Gulmohar",
+        "type": "Type-B",
+        "boxnumber":"(II),2",
+        "employee": "Shri/Smt.",
+		"designation": "Assistant",
+		"ttm":"TTM-IV(New Mandala)" 
+    },
+	{
+        "abbr":"HEM",
+        "bname":"Hemant",
+        "type": "Type-C",
+        "boxnumber":"(XVII),17",
+        "employee": "Shri/Smt.",
+		"designation": "Assistant",
+		"ttm":"TTM-IV(New Mandala)" 
+    },
+	{ 
+        "abbr":"KAI",
+        "bname":"Kailas",
+        "type": "Type-D-Spl",
+        "boxnumber":"(XIII),13",
+        "employee": "Shri/Smt.",
+		"designation": "Assistant",
+		"ttm":"TTM-I(Bhagirathi)" 
+    },
+	{
+        "abbr":"KAM",
+        "bname":"Kamet",
+        "type": "Type-D-Spl",
+        "boxnumber":"(XII),12",
+        "employee": "Shri/Smt.",
+		"designation": "Assistant",
+		"ttm":"TTM-III(KMU)"
+    },
+	{
+        "abbr":"KUM",
+        "bname":"Kumud", 
+        "type": "Type-B",
+        "boxnumber":"(XIV),14",
+        "employee": "Shri/Smt.",
+		"designation": "Assistant",
+		"ttm":"TTM-IV(New Mandala)" 
+    },
+	{
+        "abbr":"SHA",
+        "bname":"Sharad",
+        "type": "Type-C",
+        "boxnumber":"(XII),12",
+        "employee": "Shri/Smt.",
+		"designation": "Assistant",
+		"ttm":"TTM-IV(New Mandala)" 
+    },
+	{
+        "abbr":"TAKS",
+        "bname":"Takshasila",
+        "type": "Type-B/Type-D",
+        "boxnumber":"(I),1",
+        "employee": "Shri/Smt.",
+		"designation": "Assistant",
+		"ttm":"TTM-II(Brindavan)" 
+    },
+	{
+        "abbr":"TUN",
+        "bname":"Tungabhadra",
+        "type": "Type-B",
+        "boxnumber":"(XVI),16",
+        "employee": "Shri/Smt.",
+		"designation": "Assistant",
+		"ttm":"TTM-IV(New Mandala)" 
+    },
+	{
+        "abbr":"YAM",
+        "bname":"Yamuna",
+        "type": "Type-C",
+        "boxnumber":"(VI),6/VII,(7)",
+        "employee": "Shri./Smt.",
+		"designation": "Assistant",
+		"ttm":"TTM-(Western Sector)" 
+    },
+	{
+        "abbr":"AKD",
+        "bname":"Akashdeep",
+        "type": "Type-TrO_Plus",
+        "boxnumber":"(IV),4",
+        "employee": "Shri. Jyoti",
+		"designation": "Assistant",
+		"ttm":"TTM-III(KMU)" 
+    },
+	{ 
+        "abbr":"AKG",
+        "bname":"Akashganga",
+        "type": "Type-TrO_Plus",
+        "boxnumber":"(IV),4",
+        "employee": "Shri. Jyoti",
+		"designation": "Assistant",
+		"ttm":"TTM-IV(New Mandala)" 
+    },
+	{ 
+        "abbr":"AKR",
+        "bname":"Akashratna",
+        "type": "Type-TrO_Plus",
+        "boxnumber":"(IV),4",
+        "employee": "Shri. Jyoti",
+		"designation": "Assistant",
+		"ttm":"TTM-III(KMU)"
+    },
+	{
+        "abbr":"ATM",
+        "bname":"Atmoica",
+        "type": "",
+        "boxnumber":"(XXII),22",
+        "employee": "Shri. Jyoti",
+		"designation": "Assistant",
+		"ttm":"TTM-(LGR)" 
+    },
+	{
+        "abbr":"BAN",
+        "bname":"Bandra",
+        "type": "",
+        "boxnumber":"(III),3",
+        "employee": "Shri. Jyoti",
+		"designation": "Assistant",
+		"ttm":"TTM-(LGR)"
+    },
+	{
+        "abbr":"CHEM",
+        "bname":"Chembur",
+        "type": "",
+        "boxnumber":"(III),3/(XXVI),26",
+        "employee": "Shri. Jyoti",
+		"designation": "Assistant",
+		"ttm":"TTM-(Chembur)"
+    },
+	{
+        "abbr":"DAMP",
+        "bname":"Damodar Park",
+        "type": "",
+        "boxnumber":"(III),3",
+        "employee": "Shri. Jyoti",
+		"designation": "Assistant",
+		"ttm":"TTM-()" 
+    },
+	{
+        "abbr":"GHAT",
+        "bname":"Ghatkopar",
+        "type": "",
+        "boxnumber":"(III),3",
+        "employee": "Shri. Jyoti",
+		"designation": "Assistant",
+		"ttm":"TTM-(Chembur)"
+    },
+	{
+        "abbr":"MALG",
+        "bname":"Malaygiri",
+        "type": "Type-E",
+        "boxnumber":"(XVII),17/(XXIII),23",
+        "employee": "Shri. Jyoti",
+		"designation": "Assistant",
+		"ttm":"TTM-II(Brindavan)"
+    },
+	{
+        "abbr":"MN",
+        "bname":"Mistry Nagar",
+        "type": "",
+        "boxnumber":"(III),3",
+        "employee": "Shri. Jyoti",
+		"designation": "Assistant",
+		"ttm":"TTM-(LGR)" 
+    },
+	{
+        "abbr":"TUKR", 
+        "bname":"Tukaram Chowk",
+        "type": "Type-A",
+        "boxnumber":"(VIII),8",
+        "employee": "Shri. Jyoti",
+		"designation": "Assistant",
+		"ttm":"TTM-I(Bhagirathi)" 
+    },
+	{
+        "abbr":"TULS",
+        "bname":"Tulsidas Chowk", 
+        "type": "Type-A",
+        "boxnumber":"(VIII),8",
+        "employee": "Shri. Jyoti",
+		"designation": "Assistant",
+		"ttm":"TTM-I(Bhagirathi)" 
+    },
+	{
+        "abbr":"JAI",
+        "bname":"Jaideo Chowk",
+        "type": "Type-B",
+        "boxnumber":"(X),10",
+        "employee": "Shri. Jyoti",
+		"designation": "Assistant",
+		"ttm":"TTM-I(Bhagirathi)" 
+    },
+	{
+        "abbr":"BHE",
+        "bname":"Bheema",
+        "type": "Type-TrA",
+        "boxnumber":"(XXVI),26",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-(Western Sector)"
+    },
+    {
+        "abbr":"BRH",
+        "bname":"Brhamputra",
+        "type": "Type-B",
+        "boxnumber":"(XXVIII),28",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-I(Bhagirathi)" 
+    },
+	{
+        "abbr":"CHAN",
+        "bname":"Chandrabhaga",
+        "type": "Type-TrA",
+        "boxnumber":"(XXVI),26",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-(Western Sector)" 
+    },
+	{
+        "abbr":"CHEN",
+        "bname":"Chenab",
+        "type": "",
+        "boxnumber":"(XXVI),26" ,
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-()"
+    },
+	{
+        "abbr":"HEMA",
+        "bname":"Hemavati",
+        "type": "Type-B",
+        "boxnumber":"(XXVI),26",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-IV(New Mandala)"
+    },
+	{ 
+        "abbr":"INDR",
+        "bname":"Indrayani",
+        "type": "Type-TrA",
+        "boxnumber":"(XXVI),26",
+        "employee": "Kum. Madhuri",
+        "designation": "Sr. UDC",
+        "ttm":"TTM-(Western Sector)" 
+    },
+	{
+        "abbr":"MAN",
+        "bname":"Mandovi",
+        "type": "",
+        "boxnumber":"(XXVI),26",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-()"
+    },
+	{
+        "abbr":"PARJ",
+        "bname":"Parijat",
+        "type": "Type-B",
+        "boxnumber":"(XVI),16",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-IV(New Mandala)" 
+    },
+	{
+        "abbr":"PER",
+        "bname":"Periyar",
+        "type": "",
+        "boxnumber":"(XXVI),26",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-()" 
+    },
+	{
+        "abbr":"SAHY",
+        "bname":"Sahyadri",
+        "type": "Type-C",
+        "boxnumber":"(XXVI),26",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-II(Brindavan)"
+    },
+    { 
+        "abbr":"SAN",
+        "bname":"Sanchi",
+        "type": "Type-C",
+        "boxnumber":"(XX),20",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-III(Hastinapur)" 
+    },
+	{ 
+        "abbr":"SANJ",
+        "bname":"Sanjeevani",
+        "type": "",
+        "boxnumber":"(XXVI),26",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-()" 
+    },
+	{
+        "abbr":"SARN",
+        "bname":"Sarnath",
+        "type": "Type-C",
+        "boxnumber":"(XXVII),27",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-II(Brindavan)" 
+    },
+	{ 
+        "abbr":"STA",
+        "bname":"Stayam",
+        "type": "",
+        "boxnumber":"(XXVI),26",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-(Old Mandala)"
+    },
+	{ 
+        "abbr":"SHAR",
+        "bname":"Sharavati",
+        "type": "Type-B",
+        "boxnumber":"(XXVI),26",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-IV(New Mandala)"
+    },
+	{
+        "abbr":"SHI",
+        "bname":"Shivam",
+        "type": "",
+        "boxnumber":"(XXVI),26",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-(Old Mandala)"
+    },
+	{
+        "abbr":"SHUB",
+        "bname":"Shubham",
+        "type": "",
+        "boxnumber":"(XXVI),26",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-(Old Mandala)"
+    },
+	{
+        "abbr":"SUND",
+        "bname":"Sundaram",
+        "type": "Type-C",
+        "boxnumber":"(XXVI),26",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-(Old Mandala)"
+    },
+	{
+        "abbr":"TRI",
+        "bname":"Triveni",
+        "type": "Type-B",
+        "boxnumber":"(XXVIII),28" ,
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-IV(New Mandala)"
+    },
+	{
+        "abbr":"VAI",
+        "bname":"Vaitarna",
+        "type": "",
+        "boxnumber":"(XXVI),26",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-(Old Mandala)"
+    },
+	{
+        "abbr":"VASU",
+        "bname":"Vasundhara",
+        "type": "Type-B",
+        "boxnumber":"(XXVIII),28",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-IV(New Mandala)" 
+    },
+	{
+        "abbr":"VIND",
+        "bname":"Vindhya",
+        "type": "Type-C",
+        "boxnumber":"(XXVII),27",
+        "employee": "Kum. Madhuri",
+		"designation": "Sr. UDC",
+		"ttm":"TTM-II(Brindavan)" 
+    },
+	{ 
+        "abbr":"ARAV",
+        "bname":"Aravalli",
+        "type": "Type-D-Spl",
+        "boxnumber":"(XII),12",
+        "employee": "Smt. Nilima",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)"  
+    },
+	{ 
+        "abbr":"DAR",
+        "bname":"Darbari",
+        "type": "Type-D",
+        "boxnumber":"(XIII),13",
+        "employee": "Smt. Nilima",
+		"designation": "UDC",
+        "ttm":"TTM-III(KMU)"  
+    },
+	{
+        "abbr":"DEE",
+        "bname":"Deepak",
+        "type": "Type-D",
+        "boxnumber":"(XII),12",
+        "employee": "Smt. Nilima",
+		"designation": "UDC",
+        "ttm":"TTM-III(KMU)"  
+    },
+	{
+        "abbr":"EKN",
+        "bname":"Eknath",
+        "type": "Type-A",
+        "boxnumber":"(XXIII),23",
+        "employee": "Smt. Nilima",
+		"designation": "UDC",
+        "ttm":"TTM-I(Bhagirathi)" 
+    },
+	{
+        "abbr":"KAL",
+        "bname":"Kalani",
+        "type": "Type-D",
+        "boxnumber":"(XII),12",
+        "employee": "Smt. Nilima",
+		"designation": "UDC",
+        "ttm":"TTM-III(KMU)" 
+    },
+	{
+        "abbr":"MAL",
+        "bname":"Malhar",
+        "type": "Type-D",
+        "boxnumber":"(XIV),14",
+        "employee": "Smt. Nilima",
+		"designation": "UDC",
+        "ttm":"TTM-III(KMU)"  
+    },
+	{
+        "abbr":"MEER",
+        "bname":"Meerabai Chowk",
+        "type": "Type-B",
+        "boxnumber":"(XV),15",
+        "employee": "Smt. Nilima",
+		"designation": "UDC",
+        "ttm":"TTM-I(Bhagirathi)"  
+    },
+	{
+        "abbr":"MOH",
+        "bname":"Mohana",
+        "type": "Type-D",
+        "boxnumber":"(XIII),13",
+        "employee": "Smt. Nilima",
+		"designation": "UDC",
+        "ttm":"TTM-III(KMU)" 
+    },
+	{
+        "abbr":"MOU",
+        "bname":"Mount Abu",
+        "type": "Type-D-Spl",
+        "boxnumber":"(II),2",
+        "employee": "Smt. Nilima",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)"
+    },
+	{
+        "abbr":"MUSS",
+        "bname":"Mussoorie",
+        "type": "Type-D-Spl",
+        "boxnumber":"(II),2",
+        "employee": "Smt. Nilima",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)"  
+    },
+	{
+        "abbr":"NAN",
+        "bname":"Nandadevi",
+        "type": "Type-E",
+        "boxnumber":"(X),10",
+        "employee": "Smt. Nilima",
+		"designation": "UDC",
+        "ttm":"TTM-III(KMU)" 
+    },
+	{
+        "abbr":"NAR",
+        "bname":"Narmada",
+        "type": "Type-A",
+        "boxnumber":"(VI),6",
+        "employee": "Smt. Nilima",
+		"designation": "UDC",
+        "ttm":"TTM-I(Bhagirathi)" 
+    },
+	{
+        "abbr":"RAN",
+        "bname":"Ranjani",
+        "type": "Type-D",
+        "boxnumber":"(XIV),14",
+        "employee": "Smt. Nilima",
+		"designation": "UDC",
+        "ttm":"TTM-III(KMU)"
+    },
+	{
+        "abbr":"SAB",
+        "bname":"Sabarigiri",
+        "type": "Type-D-Spl",
+        "boxnumber":"(II),2",
+        "employee": "Smt. Nilima",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)" 
+    },
+	{
+        "abbr":"SARG",
+        "bname":"Sarang",
+        "type": "Type-D",
+        "boxnumber":"(XIII),13",
+        "employee": "Smt. Nilima",
+		"designation": "UDC",
+        "ttm":"TTM-III(KMU)"
+    },
+	{
+        "abbr":"SATP",
+        "bname":"Satpura",
+        "type": "Type-D-Spl",
+        "boxnumber":"(II),2",
+        "employee": "Smt. Nilima",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)"
+    },
+	{
+        "abbr":"TAP",
+        "bname":"Tapti",
+        "type": "Type-B",
+        "boxnumber":"(VII),7",
+        "employee": "Smt. Nilima",
+		"designation": "UDC",
+        "ttm":"TTM-I(Bhagirathi)"
+    },
+	{
+        "abbr":"VENG",
+        "bname":"Venkatagiri",
+        "type": "Type-D-Spl",
+        "boxnumber":"(II),2",
+        "employee": "Smt. Nilima",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)" 
+    },
+    { 
+        "abbr":"ELL",
+        "bname":"Ellora",
+        "type": "Type-C",
+        "boxnumber":"(XVII),17",
+        "employee": "Smt. Rima",
+		"designation": "Sr. UDC",
+        "ttm":"TTM-III(Hastinapur)"
+    },
+	{ 
+        "abbr":"HAST",
+        "bname":"Hastinapur",
+        "type": "Type-D",
+        "boxnumber":"(XVIII),18/(XIX),19",
+        "employee": "Smt. Rima",
+		"designation": "Sr. UDC",
+        "ttm":"TTM-III(Hastinapur)"
+    },
+	{
+        "abbr":"INDP",
+        "bname":"Indrapastha",
+        "type": "Type-D",
+        "boxnumber":"(XVIII),18/(XIX),19",
+        "employee": "Smt. Rima",
+		"designation": "Sr. UDC",
+        "ttm":"TTM-III(Hastinapur)"
+    },
+	{ 
+        "abbr":"KAP",
+        "bname":"Kapilvastu",
+        "type": "Type-D",
+        "boxnumber":"(XVIII),18/(XIX),19",
+        "employee": "Smt. Rima",
+		"designation": "Sr. UDC",
+        "ttm":"TTM-III(Hastinapur)"
+    },
+	{
+        "abbr":"PANK",
+        "bname":"Pankaj",
+        "type": "Type-B",
+        "boxnumber":"(XXIII),23",
+        "employee": "Smt. Rima",
+		"designation": "Sr. UDC",
+        "ttm":"TTM-IV(New Mandala)"
+    },
+	{
+        "abbr":"VASN",
+        "bname":"Vasant",
+        "type": "Type-C",
+        "boxnumber":"(VIII),8",
+        "employee": "Smt. Rima",
+		"designation": "Sr. UDC",
+        "ttm":"TTM-IV(New Mandala)"  
+    },
+    { 
+        "abbr":"ANNP",
+        "bname":"Annapurna",
+        "type": "Type-E",
+        "boxnumber":"(V),5",
+        "employee": "Shri. Abdul",
+		"designation": "UDC",
+        "ttm":"TTM-III(Hastinapur)"
+    },
+	{
+        "abbr":"DHAG",
+        "bname":"Dhawalgiri",
+        "type": "",
+        "boxnumber":"(VII),7",
+        "employee": "Shri. Abdul",
+		"designation": "UDC",
+        "ttm":"TTM-III(KMU)"  
+    },
+	{ 
+        "abbr":"ESQ",
+        "bname":"E.S.Q.",
+        "type": "Type-A",
+        "boxnumber":"(V),5",
+        "employee": "Shri. Abdul",
+		"designation": "UDC",
+        "ttm":"TTM-I(Bhagirathi)"  
+    },
+	{ 
+        "abbr":"GHAG",
+        "bname":"Ghagra",
+        "type": "Type-B",
+        "boxnumber":"(IX),9",
+        "employee": "Shri. Abdul",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)" 
+    },
+	{ 
+        "abbr":"GOD",
+        "bname":"Godavari",
+        "type": "Type-B",
+        "boxnumber":"(IX),9",
+        "employee": "Shri. Abdul",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)" 
+    },
+	{
+        "abbr":"GOM",
+        "bname":"Gomati",
+        "type": "Type-B",
+        "boxnumber":"(IX),9",
+        "employee": "Shri. Abdul",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)" 
+    },
+	{
+        "abbr":"KAN",
+        "bname":"Kanchanjunga",
+        "type": "Type-E",
+        "boxnumber":"(X),10",
+        "employee": "Shri. Abdul",
+		"designation": "UDC",
+        "ttm":"TTM-III(KMU)"  
+    },
+	{
+        "abbr":"KRD",
+        "bname":"Kedarnath",
+        "type": "Type-D-Spl",
+        "boxnumber":"(XV),15",
+        "employee": "Shri. Abdul",
+		"designation": "UDC",
+        "ttm":"TTM-I(Bhagirathi)"  
+    },
+	{
+        "abbr":"KRI",
+        "bname":"Krishna",
+        "type": "Type-B",
+        "boxnumber":"(IX),9",
+        "employee": "Shri. Abdul",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)"  
+    },
+	{
+        "abbr":"MANDA",
+        "bname":"Mandala",
+        "type": "",
+        "boxnumber":"(VII),7/(VIII),8",
+        "employee": "Shri. Abdul",
+		"designation": "UDC",
+        "ttm":"TTM-(Old Mandala)"  
+    },
+	{
+        "abbr":"NAMD",
+        "bname":"Namdeo Chowk",
+        "type": "Type-B",
+        "boxnumber":"(XV),15",
+        "employee": "Shri. Abdul",
+		"designation": "UDC",
+        "ttm":"TTM-I(Bhagirathi)"  
+    },
+	{
+        "abbr":"PURN",
+        "bname":"Purnima",
+        "type": "Type-E1",
+        "boxnumber":"(XXII),22",
+        "employee": "Shri. Abdul",
+		"designation": "UDC",
+        "ttm":"TTM-(LGR)" 
+    },
+	{
+        "abbr":"SARA",
+        "bname":"Saraswati",
+        "type": "Type-B",
+        "boxnumber":"(IX),9",
+        "employee": "Shri. Abdul",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)" 
+    },
+	{
+        "abbr":"SHANT",
+        "bname":"Shantinkiketan",
+        "type": "Type-E1",
+        "boxnumber":"(X),10",
+        "employee": "Shri. Abdul",
+		"designation": "UDC",
+        "ttm":"TTM-III(KMU)" 
+    },
+	{
+        "abbr":"SREE",
+        "bname":"Sreeniketan",
+        "type": "Type-E1",
+        "boxnumber":"(VI),6",
+        "employee": "Shri. Abdul",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)"   
+    },
+	{
+        "abbr":"SUR",
+        "bname":"Surabhi",
+        "type": "Type-D",
+        "boxnumber":"(XIV),14",
+        "employee": "Shri. Abdul",
+		"designation": "UDC",
+        "ttm":"TTM-III(KMU)"   
+    },
+	{
+        "abbr":"VARS",
+        "bname":"Varsha",
+        "type": "Type-C",
+        "boxnumber":"(XI),11", 
+        "employee": "Shri. Abdul",
+		"designation": "UDC",
+        "ttm":"TTM-IV(New Mandala)"  
+    },
+	{
+        "abbr":"ZER",
+        "bname":"Zerlina",
+        "type": "Type-D",
+        "boxnumber":"(XXII),22",
+        "employee": "Shri. Abdul",
+		"designation": "UDC",
+        "ttm":"TTM-(LGR)"  
+    },
+	{
+        "abbr":"AB",
+        "bname":"Anand Bhavan",
+        "type": "Type-E/Type-D-Spl",
+        "boxnumber":"(XXII),22",
+        "employee": "Smt. Neha",
+		"designation": "UDC",
+        "ttm":"TTM-(LGR)"  
+    },
+	{ 
+        "abbr":"BHAS",
+        "bname":"Bhaskara",
+        "type": "Type-B",
+        "boxnumber":"(XXII),22",
+        "employee": "Smt. Neha",
+		"designation": "UDC",
+        "ttm":"TTM-()"  
+    },
+	{
+        "abbr":"CAU",
+        "bname":"Cauvery",
+        "type": "Type-B",
+        "boxnumber":"(VIII),8",
+        "employee": "Smt. Neha",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)"  
+    },
+	{
+        "abbr":"CHAI",
+        "bname":"Chaitanya",
+        "type": "Type-B",
+        "boxnumber":"(XI),11",
+        "employee": "Smt. Neha",
+		"designation": "UDC",
+        "ttm":"TTM-I(Bhagirathi)"  
+    },
+	{ 
+        "abbr":"CHAM",
+        "bname":"Champa",
+        "type": "Type-B",
+        "boxnumber":"(II),2",
+        "employee": "Smt. Neha",
+		"designation": "UDC",
+        "ttm":"TTM-IV(New Mandala)"  
+    },
+	{
+        "abbr":"GIRN",
+        "bname":"Girnar",
+        "type": "Type-D-Spl",
+        "boxnumber":"(XIV),14",
+        "employee": "Smt. Neha",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)"  
+    },
+	{ 
+        "abbr":"KABI",
+        "bname":"Kabir Chowk",
+        "type": "Type-B",
+        "boxnumber":"(XI),11",
+        "employee": "Smt. Neha",
+		"designation": "UDC",
+        "ttm":"TTM-I(Bhagirathi)"  
+    },
+	{
+        "abbr":"KAML",
+        "bname":"Kamal",
+        "type": "Type-B",
+        "boxnumber":"(V),5",
+        "employee": "Smt. Neha",
+		"designation": "UDC",
+        "ttm":"TTM-IV(New Mandala)"  
+    },
+	{ 
+        "abbr":"KW",
+        "bname":"Kenilworth",
+        "type": "Type-C/Type-D/Type-D-Spl",
+        "boxnumber":"(XXII),22",
+        "employee": "Smt. Neha",
+		"designation": "UDC",
+        "ttm":"TTM-(LGR)"  
+    },
+	{
+        "abbr":"LAL",
+        "bname":"Lalit",
+        "type": "Type-D",
+        "boxnumber":"(XIII),13" ,
+        "employee": "Smt. Neha",
+		"designation": "UDC",
+        "ttm":"TTM-III(KMU)" 
+    },
+	{
+        "abbr":"MEG",
+        "bname":"Meghnad",
+        "type": "Type-D",
+        "boxnumber":"(XXII),22",
+        "employee": "Smt. Neha",
+		"designation": "UDC",
+        "ttm":"TTM-()"  
+    },
+	{
+        "abbr":"NAL",
+        "bname":"Nalanda",
+        "type": "Type-D",
+        "boxnumber":"(XIX),19",
+        "employee": "Smt. Neha",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)"  
+    },
+	{
+        "abbr":"NET",
+        "bname":"Netravati",
+        "type": "Type-B",
+        "boxnumber":"(I),1",
+        "employee": "Smt. Neha",
+		"designation": "UDC",
+        "ttm":"TTM-III(Hastinapur)"  
+    },
+	{
+        "abbr":"NIL",
+        "bname":"Nilgiri",
+        "type": "Type-TrO",
+        "boxnumber":"(IV),4/(V),5",
+        "employee": "Smt. Neha",
+		"designation": "UDC",
+        "ttm":"TTM-III(Hastinapur)" 
+    },
+	{ 
+        "abbr":"SATL",
+        "bname":"Satluj",
+        "type": "Type-C",
+        "boxnumber":"(XI),11",
+        "employee": "Smt. Neha",
+		"designation": "UDC",
+        "ttm":"TTM-(Western Sector)"  
+    },
+	{
+        "abbr":"SIND",
+        "bname":"Sindhu",
+        "type": "Type-B",
+        "boxnumber":"(XV),15",
+        "employee": "Smt. Neha",
+		"designation": "UDC",
+        "ttm":"TTM-IV(New Mandala)"  
+    },
+	{
+        "abbr":"UDAY",
+        "bname":"Udayagiri",
+        "type": "Type-E",
+        "boxnumber":"(XVIII),18/(XXIII),23",
+        "employee": "Smt. Neha",
+		"designation": "UDC",
+        "ttm":"TTM-III(KMU)" 
+    },
+	{
+        "abbr":"ALK",
+        "bname":"Alakananda", 
+        "type": "Type-C",
+        "boxnumber":"(XXI),21", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)" 
+    },
+	{
+        "abbr":"BHAG",
+        "bname":"Bhagirathi", 
+        "type": "Type-C",
+        "boxnumber":"(XXV),25", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-I(Bhagirathi)" 
+    },
+	{
+        "abbr":"BHAIR",
+        "bname":"Bhairavi",
+        "type": "Type-D",
+        "boxnumber":"(XIV),14", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-III(Hastinapur)" 
+    },
+	{
+        "abbr":"BRIN",
+        "bname":"Brindavan",
+        "type": "Type-C",
+        "boxnumber":"(XXI),21", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)" 
+    },
+	{
+        "abbr":"CHID",
+        "bname":"Chidambaram",
+        "type": "Type-C",
+        "boxnumber":"(XXIII),23", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)" 
+    },
+	{ 
+        "abbr":"DILW",
+        "bname":"Dilwara",
+        "type": "Type-C",
+        "boxnumber":"(XXI),21", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)" 
+    },
+	{
+        "abbr":"DWA",
+        "bname":"Dwarka", 
+        "type": "Type-C",
+        "boxnumber":"(XXV),25", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)" 
+    },
+	{
+        "abbr":"GAND",
+        "bname":"Gandaki", 
+        "type": "Type-B",
+        "boxnumber":"(XXII),22", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)" 
+    },
+	{
+        "abbr":"GANG",
+        "bname":"Gangotri",
+        "type": "Type-C",
+        "boxnumber":"(XXV),25", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)" 
+    },
+	{
+        "abbr":"GAUR",
+        "bname":"Gaurishankar",
+        "type": "Type-C",
+        "boxnumber":"(XXIII),23", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-III(KMU)" 
+    },
+	{
+        "abbr":"GOL",
+        "bname":"Golconda", 
+        "type": "Type-C",
+        "boxnumber":"(XXIV),24", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-III(Hastinapur)" 
+    },
+	{
+        "abbr":"MANA",
+        "bname":"Manasarovar", 
+        "type": "Type-C",
+        "boxnumber":"(XXI),21", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-I(Bhagirathi)" 
+
+    },
+	{
+        "abbr":"MAND",
+        "bname":"Mandakini",
+        "type": "Type-C",
+        "boxnumber":"(XXV),25", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-I(Bhagirathi)"
+    },
+	{
+        "abbr":"PAM",
+        "bname":"Pampa", 
+        "type": "Type-C",
+        "boxnumber":"(XXIV),24", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-III(Hastinapur)" 
+    },
+	{ 
+        "abbr":"PATL",
+        "bname":"Patliputra", 
+        "type": "Type-C/Type-D",
+        "boxnumber":"(XXIV),24/(XX),20", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-II(Brindavan)" 
+    },
+	{ 
+        "abbr":"RAJ",
+        "bname":"Rajanigandha", 
+        "type": "Type-B",
+        "boxnumber":"(XXIV),24", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-I(Bhagirathi)" 
+    },
+	{
+        "abbr":"RAM",
+        "bname":"Ramdas Chowk", 
+        "type": "Type-A",
+        "boxnumber":"(VIII),8", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-I(Bhagirathi)" 
+    },
+	{
+        "abbr":"SABA",
+        "bname":"Sabarmati", 
+        "type": "Type-C",
+        "boxnumber":"(XXV),25", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-I(Bhagirathi)" 
+    },
+	{
+        "abbr":"SARY",
+        "bname":"Sarayu",
+        "type": "Type-C",
+        "boxnumber":"(XXV),25",
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-I(Bhagirathi)"
+    },
+	{
+        "abbr":"WAR",
+        "bname":"Warna", 
+        "type": "Type-A",
+        "boxnumber":"(XV),21", 
+        "employee": "Smt. Sanghamitra",
+		"designation": "UDC",
+        "ttm":"TTM-I(Bhagirathi)"
+    }
+						
+]

@@ -1,0 +1,227 @@
+[
+	{
+		"employee": "Smt. Sarita J. Dalvi",
+		"designation": "Assistant",
+		"totalbuilding": "17 buildings",
+		"buildings":
+			{
+				"building":
+					[
+						{ "id": "1001", "type": "", "bname":"Ajanta", "boxnumber":"(XI)11/(xv),15" },
+						{ "id": "1002", "type": "", "bname":"Almora", "boxnumber":"(XVI),16" },
+						{ "id": "1003", "type": "", "bname":"Badrinath", "boxnumber":"(XIII),13" },
+						{ "id": "1004", "type": "", "bname":"Bhavani", "boxnumber":"(IX),9" },
+						{ "id": "1005", "type": "", "bname":"Everest", "boxnumber":"(XVI),16" },
+						{ "id": "1006", "type": "", "bname":"Gautami", "boxnumber":"(XV),15" },
+						{ "id": "1007", "type": "", "bname":"Grishma", "boxnumber":"(XII),12" },
+						{ "id": "1008", "type": "", "bname":"Gulmarg", "boxnumber":"(XIV),14" },
+						{ "id": "1009", "type": "", "bname":"Gulmohar", "boxnumber":"(II),2" },
+						{ "id": "1010", "type": "", "bname":"Hemant", "boxnumber":"(XVII),17" },
+						{ "id": "1011", "type": "", "bname":"Kailas", "boxnumber":"(XIII),13" },
+						{ "id": "1012", "type": "", "bname":"Kamet", "boxnumber":"(XII),12" },
+						{ "id": "1013", "type": "", "bname":"Kumud", "boxnumber":"(XIV),14" },
+						{ "id": "1014", "type": "", "bname":"Sharad", "boxnumber":"(XII),12" },
+						{ "id": "1015", "type": "", "bname":"Takshasila", "boxnumber":"(I),1" },
+						{ "id": "1016", "type": "", "bname":"Tungabhadra", "boxnumber":"(XVI),16" },
+						{ "id": "1017", "type": "", "bname":"Yamuna", "boxnumber":"(VI),6/VII,(7)" }
+					]
+			}
+	},
+	{
+		"employee": "Shri. Jyoti Bhusan",
+		"designation": "Assistant",
+		"totalbuilding": "13 buildings",
+		"buildings":
+			{
+				"building":
+					[
+						{ "id": "1001", "type": "", "bname":"Akashdeep", "boxnumber":"(IV),4" },
+						{ "id": "1002", "type": "", "bname":"Akashganga", "boxnumber":"(IV),4" },
+						{ "id": "1003", "type": "", "bname":"Akashratna", "boxnumber":"(IV),4" },
+						{ "id": "1004", "type": "", "bname":"Atmoica", "boxnumber":"(XXII),22" },
+						{ "id": "1005", "type": "", "bname":"Bandra", "boxnumber":"(III),3" },
+						{ "id": "1006", "type": "", "bname":"Chembur", "boxnumber":"(III),3/(XXVI),26" },
+						{ "id": "1007", "type": "", "bname":"Damodar Park", "boxnumber":"(III),3" },
+						{ "id": "1008", "type": "", "bname":"Ghatkopar", "boxnumber":"(III),3" },
+						{ "id": "1009", "type": "", "bname":"Malaygiri", "boxnumber":"(XVII),17/(XXIII),23" },
+						{ "id": "1010", "type": "", "bname":"Mistry Nagar", "boxnumber":"(III),3" },
+						{ "id": "1011", "type": "", "bname":"Tukaram Chowk", "boxnumber":"(VIII),8" },
+						{ "id": "1012", "type": "", "bname":"Tulsidas Chowk", "boxnumber":"(VIII),8" },
+						{ "id": "1013", "type": "", "bname":"Jaideo Chowk", "boxnumber":"(X),10" }
+						
+					]
+			}
+	},
+	{
+		"employee": "Kum. Madhuri B. Nagonkar",
+		"designation": "Sr. UDC",
+		"totalbuilding": "22 buildings",
+		"buildings":
+			{
+				"building":
+					[
+						{ "id": "1001", "type": "", "bname":"Bheema", "boxnumber":"(XXVI),26" },
+						{ "id": "1002", "type": "", "bname":"Brhamputra", "boxnumber":"(XXVIII),28" },
+						{ "id": "1003", "type": "", "bname":"Chandrabhaga", "boxnumber":"(XXVI),26" },
+						{ "id": "1004", "type": "", "bname":"Chenab", "boxnumber":"(XXVI),26" },
+						{ "id": "1005", "type": "", "bname":"Hemavati", "boxnumber":"(XXVI),26" },
+						{ "id": "1006", "type": "", "bname":"Indrayani", "boxnumber":"(XXVI),26" },
+						{ "id": "1007", "type": "", "bname":"Mandovi", "boxnumber":"(XXVI),26" },
+						{ "id": "1008", "type": "", "bname":"Parijat", "boxnumber":"(XVI),16" },
+						{ "id": "1009", "type": "", "bname":"Periyar", "boxnumber":"(XXVI),26" },
+						{ "id": "1010", "type": "", "bname":"Sahyadri", "boxnumber":"(XXVI),26" },
+						{ "id": "1011", "type": "", "bname":"Sanchi", "boxnumber":"(XX),20" },
+						{ "id": "1012", "type": "", "bname":"Sanjeevani", "boxnumber":"(XXVI),26" },
+						{ "id": "1013", "type": "", "bname":"Sarnath", "boxnumber":"(XXVII),27" },
+						{ "id": "1014", "type": "", "bname":"Stayam", "boxnumber":"(XXVI),26" },
+						{ "id": "1015", "type": "", "bname":"Sharavati", "boxnumber":"(XXVI),26" },
+						{ "id": "1016", "type": "", "bname":"Shivam", "boxnumber":"(XXVI),26" },
+						{ "id": "1017", "type": "", "bname":"Shubham", "boxnumber":"(XXVI),26" },
+						{ "id": "1018", "type": "", "bname":"Sundaram", "boxnumber":"(XXVI),26" },
+						{ "id": "1019", "type": "", "bname":"Triveni", "boxnumber":"(XXVIII),28" },
+						{ "id": "1020", "type": "", "bname":"Vaitarna", "boxnumber":"(XXVI),26" },
+						{ "id": "1021", "type": "", "bname":"Vasundhara", "boxnumber":"(XXVIII),28" },
+						{ "id": "1022", "type": "", "bname":"Vindhya", "boxnumber":"(XXVII),27" }
+					]
+			}
+	},
+	{
+		"employee": "Smt. Nilima M. Satam",
+		"designation": "UDC",
+		"totalbuilding": "18 buildings",
+		"buildings":
+			{
+				"building":
+					[
+						{ "id": "1001", "type": "", "bname":"Aravalli", "boxnumber":"(XII),12" },
+						{ "id": "1002", "type": "", "bname":"Darbari", "boxnumber":"(XIII),13" },
+						{ "id": "1003", "type": "", "bname":"Deepak", "boxnumber":"(XII),12" },
+						{ "id": "1004", "type": "", "bname":"Eknath", "boxnumber":"(XXIII),23" },
+						{ "id": "1005", "type": "", "bname":"Kalani", "boxnumber":"(XII),12" },
+						{ "id": "1006", "type": "", "bname":"Malhar", "boxnumber":"(XIV),14" },
+						{ "id": "1007", "type": "", "bname":"Meerabai Chowk", "boxnumber":"(XV),15" },
+						{ "id": "1008", "type": "", "bname":"Mohana", "boxnumber":"(XIII),13" },
+						{ "id": "1009", "type": "", "bname":"Mount Abu", "boxnumber":"(II),2" },
+						{ "id": "1010", "type": "", "bname":"Mussoorie", "boxnumber":"(II),2" },
+						{ "id": "1011", "type": "", "bname":"Nandadevi", "boxnumber":"(X),10" },
+						{ "id": "1012", "type": "", "bname":"Narmada", "boxnumber":"(VI),6" },
+						{ "id": "1013", "type": "", "bname":"Ranjani", "boxnumber":"(XIV),14" },
+						{ "id": "1014", "type": "", "bname":"Sabarigiri", "boxnumber":"(II),2" },
+						{ "id": "1015", "type": "", "bname":"Sarang", "boxnumber":"(XIII),13" },
+						{ "id": "1016", "type": "", "bname":"Satpura", "boxnumber":"(II),2" },
+						{ "id": "1017", "type": "", "bname":"Tapti", "boxnumber":"(VII),7" },
+						{ "id": "1018", "type": "", "bname":"Venkatagiri", "boxnumber":"(II),2" }
+						
+					]
+			}
+	},
+	{
+		"employee": "Smt. Rima P. Harawande",
+		"designation": "Sr. UDC",
+		"totalbuilding": "6 buildings",
+		"buildings":
+			{
+				"building":
+					[
+						{ "id": "1001", "type": "", "bname":"Ellora", "boxnumber":"(XVII),17" },
+						{ "id": "1002", "type": "", "bname":"Hastinapur", "boxnumber":"(XVIII),18/(XIX),19" },
+						{ "id": "1003", "type": "", "bname":"Indrapastha", "boxnumber":"(XVIII),18/(XIX),19" },
+						{ "id": "1004", "type": "", "bname":"Kapilvastu", "boxnumber":"(XVIII),18/(XIX),19" },
+						{ "id": "1005", "type": "", "bname":"Pankaj", "boxnumber":"(XXIII),23" },
+						{ "id": "1006", "type": "", "bname":"Vasant", "boxnumber":"(VIII),8" }						
+					]
+			}
+	},
+	{
+		"employee": "Shri. Abdul Zabeer",
+		"designation": "UDC",
+		"totalbuilding": "18 buildings",
+		"buildings":
+			{
+				"building":
+					[
+						{ "id": "1001", "type": "", "bname":"Annapurna", "boxnumber":"(V),5" },
+						{ "id": "1002", "type": "", "bname":"Dhawalgiri", "boxnumber":"(VII),7" },
+						{ "id": "1003", "type": "", "bname":"E.S.Q.", "boxnumber":"(V),5" },
+						{ "id": "1004", "type": "", "bname":"Ghagra", "boxnumber":"(IX),9" },
+						{ "id": "1005", "type": "", "bname":"Godavari", "boxnumber":"(IX),9" },
+						{ "id": "1006", "type": "", "bname":"Gomati", "boxnumber":"(IX),9" },
+						{ "id": "1007", "type": "", "bname":"Kanchanjunga", "boxnumber":"(X),10" },
+						{ "id": "1008", "type": "", "bname":"Kedarnath", "boxnumber":"(XV),15" },
+						{ "id": "1009", "type": "", "bname":"Krishna", "boxnumber":"(IX),9" },
+						{ "id": "1010", "type": "", "bname":"Mandala", "boxnumber":"(VII),7/(VIII),8" },
+						{ "id": "1011", "type": "", "bname":"Namdeo Chowk", "boxnumber":"(XV),15" },
+						{ "id": "1012", "type": "", "bname":"Purnima", "boxnumber":"(XXII),22" },
+						{ "id": "1013", "type": "", "bname":"Saraswati", "boxnumber":"(IX),9" },
+						{ "id": "1014", "type": "", "bname":"Shantinkiketan", "boxnumber":"(X),10" },
+						{ "id": "1015", "type": "", "bname":"Sreeniketan", "boxnumber":"(VI),6" },
+						{ "id": "1016", "type": "", "bname":"Surabhi", "boxnumber":"(XIV),14" },
+						{ "id": "1017", "type": "", "bname":"Varsha", "boxnumber":"(XI),11" },
+						{ "id": "1018", "type": "", "bname":"Zerlina", "boxnumber":"(XXII),22" }
+						
+					]
+			}
+	},
+	{
+		"employee": "Smt. Neha Goyal",
+		"designation": "UDC",
+		"totalbuilding": "17 buildings",
+		"buildings":
+			{
+				"building":
+					[
+						{ "id": "1001", "type": "", "bname":"Anand Bhavan", "boxnumber":"(XXII),22" },
+						{ "id": "1002", "type": "", "bname":"Bhaskara", "boxnumber":"(XXII),22" },
+						{ "id": "1003", "type": "", "bname":"Cauvery", "boxnumber":"(VIII),8" },
+						{ "id": "1004", "type": "", "bname":"Chaitanya", "boxnumber":"(XI),11" },
+						{ "id": "1005", "type": "", "bname":"Champa", "boxnumber":"(II),2" },
+						{ "id": "1006", "type": "", "bname":"Girnar", "boxnumber":"(XIV),14" },
+						{ "id": "1007", "type": "", "bname":"Kabir Chowk", "boxnumber":"(XI),11" },
+						{ "id": "1008", "type": "", "bname":"Kamal", "boxnumber":"(V),5" },
+						{ "id": "1009", "type": "", "bname":"Kenilworth", "boxnumber":"(XXII),22" },
+						{ "id": "1010", "type": "", "bname":"Lalit", "boxnumber":"(XIII),13" },
+						{ "id": "1011", "type": "", "bname":"Meghnad", "boxnumber":"(XXII),22" },
+						{ "id": "1012", "type": "", "bname":"Nalanda", "boxnumber":"(XIX),19" },
+						{ "id": "1013", "type": "", "bname":"Netravati", "boxnumber":"(I),1" },
+						{ "id": "1014", "type": "", "bname":"Nilgiri", "boxnumber":"(IV),4/(V),5" },
+						{ "id": "1015", "type": "", "bname":"Satluj", "boxnumber":"(XI),11" },
+						{ "id": "1016", "type": "", "bname":"Sindhu", "boxnumber":"(XV),15" },
+						{ "id": "1017", "type": "", "bname":"Udayagiri", "boxnumber":"(XVIII),18/(XXIII),23" }
+						
+					]
+			}
+	},
+	{
+		"employee": "Smt. Sanghamitra S. Devde",
+		"designation": "UDC",
+		"totalbuilding": "20 buildings",
+		"buildings":
+			{
+				"building":
+					[
+						{ "id": "1001", "type": "", "bname":"Alakananda", "boxnumber":"(XXI),21" },
+						{ "id": "1002", "type": "", "bname":"Bhagirathi", "boxnumber":"(XXV),25" },
+						{ "id": "1003", "type": "", "bname":"Bhairavi", "boxnumber":"(XIV),14" },
+						{ "id": "1004", "type": "", "bname":"Brindavan", "boxnumber":"(XXI),21" },
+						{ "id": "1005", "type": "", "bname":"Chidambaram", "boxnumber":"(XXIII),23" },
+						{ "id": "1006", "type": "", "bname":"Dilwara", "boxnumber":"(XXI),21" },
+						{ "id": "1007", "type": "", "bname":"Dwarka", "boxnumber":"(XXV),25" },
+						{ "id": "1008", "type": "", "bname":"Gandaki", "boxnumber":"(XXII),22" },
+						{ "id": "1009", "type": "", "bname":"Gangotri", "boxnumber":"(XXV),25" },
+						{ "id": "1010", "type": "", "bname":"Gaurishankar", "boxnumber":"(XXIII),23" },
+						{ "id": "1011", "type": "", "bname":"Golconda", "boxnumber":"(XXIV),24" },
+						{ "id": "1012", "type": "", "bname":"Manasarovar", "boxnumber":"(XXI),21" },
+						{ "id": "1013", "type": "", "bname":"Mandakini", "boxnumber":"(XXV),25" },
+						{ "id": "1014", "type": "", "bname":"Pampa", "boxnumber":"(XXIV),24" },
+						{ "id": "1015", "type": "", "bname":"Pataliputra", "boxnumber":"(XXIV),24/(XX),20" },
+						{ "id": "1016", "type": "", "bname":"Rajanigandha", "boxnumber":"(XXIV),24" },
+						{ "id": "1017", "type": "", "bname":"Ramdas Chowk", "boxnumber":"(VIII),8" },
+						{ "id": "1014", "type": "", "bname":"Sabarmati", "boxnumber":"(XXV),25" },
+						{ "id": "1015", "type": "", "bname":"Sarayu", "boxnumber":"(XXV),25" },
+						{ "id": "1016", "type": "", "bname":"Warna", "boxnumber":"(XV),21" }
+						
+					]
+			}
+	}
+
+]
