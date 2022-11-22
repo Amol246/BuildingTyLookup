@@ -30,7 +30,7 @@ const outputHtml = matches => {
             match => `
         <div class="card card-body mb-1">
             <h4>${match.bname} <span class="text-primary">${match.type}</span></h4>
-            <small>Box: ${match.boxnumber} | DealingHand: ${match.employee}|(${match.designation})| ${match.ttm} </small>
+            <small>Box: ${match.boxnumber}| DealingHand: ${match.employee}|(${match.designation})| ${match.ttm} </small>
         </div>
         `
         )
